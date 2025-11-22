@@ -66,7 +66,3 @@ Supports donations & Gaushala discovery.
   - **Agentic AI Session**
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" />
-</p>
